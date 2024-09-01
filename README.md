@@ -1,7 +1,7 @@
 # 🥇🏁🐖🐖🐖🐖🐖💨
 Have you ever wanted to know what attributes makes for the fastest pig??
 
-![Porcine Porsches](/porcine-porsches.png)
+![Porcine Porsches](/images/porcine-porsches.png)
 
 Well now, thanks to the data we've collected from watching the [League of Pigs](https://www.youtube.com/@LeagueofPigs), you are now one step closer to that dream! Have fun analyzing, visualizing and training models with this dataset.
 
