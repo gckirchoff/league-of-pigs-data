@@ -1,5 +1,5 @@
 # 🥇🏁🐖🐖🐖🐖🐖💨
-Have you ever wanted to know what attributes makes for the fastest pig??
+Have you ever wondered what makes a pig a winner?
 
 ![Porcine Porsches](/images/porcine-porsches.png)
 
