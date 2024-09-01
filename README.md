@@ -1,5 +1,5 @@
 # 🥇🏁🐖🐖🐖🐖🐖💨
-Have you ever wondered what makes a pig a winner?
+Have you ever wondered what it takes for a pig to become a champion?
 
 ![Porcine Porsches](/images/porcine-porsches.png)
 
